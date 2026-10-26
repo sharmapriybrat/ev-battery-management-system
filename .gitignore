@@ -1,0 +1,6 @@
+bms_simulator
+bms_simulator.exe
+bms_log.csv
+*.o
+.DS_Store
+.vscode/
